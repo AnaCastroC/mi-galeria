@@ -1,0 +1,17 @@
+.imgcss{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card{
+    width: 400px;
+    height: fit-content;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    align-items: center;
+    cursor: pointer;
+}
+
+
